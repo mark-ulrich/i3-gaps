@@ -45,6 +45,13 @@ compile_commands.json
 /.clangd
 LAST_VERSION
 build
+GPATH
+GTAGS
+GRTAGS
+cscope.out
+#*
+.#*
+aminclude_static.am
 
 # We recommend building in a subdirectory called build.
 # If you chose a different directory name,
